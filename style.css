@@ -1,0 +1,29 @@
+body{
+margin: 0;
+padding: 0;
+}
+
+.nav a{
+    color: white;
+    text-decoration: none;
+}
+
+
+.dropdownMenu{
+    display: none;
+    
+}
+
+
+
+.dropdown:hover .dropdownMenu {
+    display: block;
+    border: 1px solid darkgray;
+    border-radius: 4px;
+    box-shadow: 40px 40px darkgrey;
+    padding:25 20px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    
+    
+  
+}
